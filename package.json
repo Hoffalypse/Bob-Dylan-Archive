@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Hoffalypse/Bob-Dylan-Archive/issues"
   },
-  "homepage": "https://github.com/Hoffalypse/Bob-Dylan-Archive#readme"
+  "homepage": "https://github.com/Hoffalypse/Bob-Dylan-Archive#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
