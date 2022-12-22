@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bob-Dylan-Archive/static/css/main.073c9b0a.css",
+    "main.js": "/Bob-Dylan-Archive/static/js/main.13082db5.js",
+    "static/js/787.3041762f.chunk.js": "/Bob-Dylan-Archive/static/js/787.3041762f.chunk.js",
+    "static/media/construction.jpg": "/Bob-Dylan-Archive/static/media/construction.eee286fcae3d7cc64ad5.jpg",
+    "index.html": "/Bob-Dylan-Archive/index.html",
+    "main.073c9b0a.css.map": "/Bob-Dylan-Archive/static/css/main.073c9b0a.css.map",
+    "main.13082db5.js.map": "/Bob-Dylan-Archive/static/js/main.13082db5.js.map",
+    "787.3041762f.chunk.js.map": "/Bob-Dylan-Archive/static/js/787.3041762f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13082db5.js"
+  ]
+}
