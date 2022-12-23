@@ -1,0 +1,11 @@
+.bkclr{
+    background-color: rgb(182, 174, 174);
+    height:100%
+}
+h1{
+    text-align: center;
+}
+.player{
+    margin-left: auto;
+    margin-right: auto;
+}
