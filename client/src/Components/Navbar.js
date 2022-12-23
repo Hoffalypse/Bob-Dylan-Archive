@@ -20,16 +20,15 @@ const AppNavbar = () => {
         <Nav className="me-auto flx">
       
           <Navbar.Brand href="/">
-              <img className="logo ml-4 mr-4" src={logo} alt="logo" style={{maxHeight:'100px', marginLeft:'40px'}}></img>
+              <img className="logo ml-4 mr-4" src={logo} alt="logo" style={{maxHeight:'100px', margin: '15px 0 0 40px'}}></img>
           </Navbar.Brand> 
           
             <Nav.Link 
-            // as={Link}
             href="/homepage"
             className='nav-btn' 
             style={{marginLeft:'60rem'}}>
             Homepage</Nav.Link>
-            <Nav.Link className='nav-btn'href="#link">Music</Nav.Link> 
+            <Nav.Link className='nav-btn'href="#link">Archives</Nav.Link> 
          
         </Nav>
        
