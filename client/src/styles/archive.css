@@ -1,0 +1,12 @@
+.bkgclr{
+    background-color: #282C35;
+    height:100em;
+}
+
+.larger{
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    padding-top: 15px;
+    margin-top: 0px;
+}

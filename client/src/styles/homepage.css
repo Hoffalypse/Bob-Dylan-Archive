@@ -1,12 +1,18 @@
 .bkclr{
-    background-color: black;
-    height:100%
+    background-color: #282C35;
+    height:100vh;
 }
-h1{
+.larger{
     text-align: center;
     color: white;
+    font-size: 30px;
+    padding-top: 15px;
 }
 .player{
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
+}
+#highlight{
+    font-weight: bolder;
 }
