@@ -2,11 +2,25 @@
     background-color: #282C35;
     height:100em;
 }
+.play{
+   background-color: #131414 !important;
+   border: none !important;
+   margin-left: auto !important;
+   margin-right: auto !important;
+}
 
 .larger{
     text-align: center;
     color:white;
-    font-size: 30px;
-    padding-top: 15px;
+    font-size: 50px;
+    padding-top: 25px;
     margin-top: 0px;
+}
+.now-playing{
+    margin-top: 18px;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: #131414;
+    list-style: none;
+    
 }
