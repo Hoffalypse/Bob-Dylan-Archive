@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bob-Dylan-Archive/static/css/main.395e615b.css",
-    "main.js": "/Bob-Dylan-Archive/static/js/main.e5cfeae6.js",
+    "main.js": "/Bob-Dylan-Archive/static/js/main.4528b554.js",
     "reactPlayerYouTube.js": "/Bob-Dylan-Archive/static/js/reactPlayerYouTube.3662c2ab.chunk.js",
     "reactPlayerSoundCloud.js": "/Bob-Dylan-Archive/static/js/reactPlayerSoundCloud.84990310.chunk.js",
     "reactPlayerVimeo.js": "/Bob-Dylan-Archive/static/js/reactPlayerVimeo.d870825b.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/construction.jpg": "/Bob-Dylan-Archive/static/media/construction.eee286fcae3d7cc64ad5.jpg",
     "index.html": "/Bob-Dylan-Archive/index.html",
     "main.395e615b.css.map": "/Bob-Dylan-Archive/static/css/main.395e615b.css.map",
-    "main.e5cfeae6.js.map": "/Bob-Dylan-Archive/static/js/main.e5cfeae6.js.map",
+    "main.4528b554.js.map": "/Bob-Dylan-Archive/static/js/main.4528b554.js.map",
     "reactPlayerYouTube.3662c2ab.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerYouTube.3662c2ab.chunk.js.map",
     "reactPlayerSoundCloud.84990310.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerSoundCloud.84990310.chunk.js.map",
     "reactPlayerVimeo.d870825b.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerVimeo.d870825b.chunk.js.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.395e615b.css",
-    "static/js/main.e5cfeae6.js"
+    "static/js/main.4528b554.js"
   ]
 }
