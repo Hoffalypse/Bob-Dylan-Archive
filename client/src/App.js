@@ -1,20 +1,13 @@
-
-import './App.css';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import AppNavbar from './Components/Navbar';
-
-
+import "./App.css";
+import AppNavbar from "./Components/Navbar";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
-
-
   return (
-  <>  
-   <AppNavbar/>
-  
-
-  </>
+    <>
+      <AppNavbar />
+    </>
   );
 }
 
