@@ -2,6 +2,7 @@ import React from "react";
 import { Navbar, Nav, } from "react-bootstrap";
 import "../styles/navbar.css";
 import logo from "../assets/images/black-white.jpg"
+import { Link } from "react-router-dom";
 
 
 const AppNavbar = () => {
@@ -21,7 +22,8 @@ const AppNavbar = () => {
           </Navbar.Brand> 
           
             <Nav.Link 
-            href="/homepage"
+            
+            href="Bob-Dylan-Archive/homepage"
             className='nav-btn' 
             >
             Homepage</Nav.Link>

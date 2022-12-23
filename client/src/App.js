@@ -21,7 +21,7 @@ function App() {
               />
                <Route
                 exact
-                path="/homepage"
+                path="/Bob-Dylan-Archive/homepage"
                 element={<Homepage/>}
               />
     </Routes>
