@@ -1,9 +1,10 @@
 .bkclr{
-    background-color: rgb(182, 174, 174);
+    background-color: black;
     height:100%
 }
 h1{
     text-align: center;
+    color: white;
 }
 .player{
     margin-left: auto;
