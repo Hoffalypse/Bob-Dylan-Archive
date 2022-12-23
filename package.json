@@ -1,5 +1,5 @@
 {
-  "homepage": "http://hoffalypse.github.io/Bob-Dylan-Archive",
+  "homepage": "http://hoffalypse.github.io/Bob-Dylan-Archive/",
   "name": "bob-dylan-archive",
   "version": "1.0.0",
   "description": "",
@@ -25,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/Hoffalypse/Bob-Dylan-Archive/issues"
   },
-  
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
