@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Bob-Dylan-Archive/static/css/main.b666aecf.css",
-    "main.js": "/Bob-Dylan-Archive/static/js/main.5df9ed22.js",
+    "main.css": "/Bob-Dylan-Archive/static/css/main.1febfed9.css",
+    "main.js": "/Bob-Dylan-Archive/static/js/main.a548f7e2.js",
     "reactPlayerYouTube.js": "/Bob-Dylan-Archive/static/js/reactPlayerYouTube.3662c2ab.chunk.js",
     "reactPlayerSoundCloud.js": "/Bob-Dylan-Archive/static/js/reactPlayerSoundCloud.84990310.chunk.js",
     "reactPlayerVimeo.js": "/Bob-Dylan-Archive/static/js/reactPlayerVimeo.d870825b.chunk.js",
-    "reactPlayerFacebook.js": "/Bob-Dylan-Archive/static/js/reactPlayerFacebook.867eef1e.chunk.js",
+    "reactPlayerFacebook.js": "/Bob-Dylan-Archive/static/js/reactPlayerFacebook.17cc783d.chunk.js",
     "reactPlayerStreamable.js": "/Bob-Dylan-Archive/static/js/reactPlayerStreamable.614221f1.chunk.js",
     "reactPlayerWistia.js": "/Bob-Dylan-Archive/static/js/reactPlayerWistia.9b59ee4e.chunk.js",
     "reactPlayerTwitch.js": "/Bob-Dylan-Archive/static/js/reactPlayerTwitch.86ab95b3.chunk.js",
@@ -19,12 +19,12 @@
     "static/media/black-white.jpg": "/Bob-Dylan-Archive/static/media/black-white.db72f109a46cee965cb9.jpg",
     "static/media/construction.jpg": "/Bob-Dylan-Archive/static/media/construction.eee286fcae3d7cc64ad5.jpg",
     "index.html": "/Bob-Dylan-Archive/index.html",
-    "main.b666aecf.css.map": "/Bob-Dylan-Archive/static/css/main.b666aecf.css.map",
-    "main.5df9ed22.js.map": "/Bob-Dylan-Archive/static/js/main.5df9ed22.js.map",
+    "main.1febfed9.css.map": "/Bob-Dylan-Archive/static/css/main.1febfed9.css.map",
+    "main.a548f7e2.js.map": "/Bob-Dylan-Archive/static/js/main.a548f7e2.js.map",
     "reactPlayerYouTube.3662c2ab.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerYouTube.3662c2ab.chunk.js.map",
     "reactPlayerSoundCloud.84990310.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerSoundCloud.84990310.chunk.js.map",
     "reactPlayerVimeo.d870825b.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerVimeo.d870825b.chunk.js.map",
-    "reactPlayerFacebook.867eef1e.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerFacebook.867eef1e.chunk.js.map",
+    "reactPlayerFacebook.17cc783d.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerFacebook.17cc783d.chunk.js.map",
     "reactPlayerStreamable.614221f1.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerStreamable.614221f1.chunk.js.map",
     "reactPlayerWistia.9b59ee4e.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerWistia.9b59ee4e.chunk.js.map",
     "reactPlayerTwitch.86ab95b3.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerTwitch.86ab95b3.chunk.js.map",
@@ -37,7 +37,7 @@
     "787.3041762f.chunk.js.map": "/Bob-Dylan-Archive/static/js/787.3041762f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b666aecf.css",
-    "static/js/main.5df9ed22.js"
+    "static/css/main.1febfed9.css",
+    "static/js/main.a548f7e2.js"
   ]
 }
