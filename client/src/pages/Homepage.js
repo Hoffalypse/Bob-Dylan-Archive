@@ -6,7 +6,7 @@ function Homepage () {
 
     return (
         <div className='bkclr'>
-            <h1> Welcome to the Dylan Archives</h1>
+            <p className='larger'> Welcome to the Dylan Archives</p>
             <ReactPlayer className='player' url='https://www.youtube.com/watch?v=a6Kv0vF41Bc' />
             <br></br>
             <br></br>

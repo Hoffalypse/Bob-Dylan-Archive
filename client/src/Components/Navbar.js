@@ -1,39 +1,51 @@
-import React from "react";
-import { Navbar, Nav, } from "react-bootstrap";
+import { React, useState } from "react";
+import { Navbar, Nav } from "react-bootstrap";
 import "../styles/navbar.css";
-import logo from "../assets/images/black-white.jpg"
+import logo from "../assets/images/black-white.jpg";
 import { Link } from "react-router-dom";
-import { HashRouter } from "react-router-dom"
-
+import Navigation from "./Navigation";
 
 const AppNavbar = () => {
+  let [pageView, setPageView] = useState();
+  if (!pageView) {
+    setPageView("Building");
+  }
+
+  const eventHandle = (e) => {
+    setPageView(e.target.value);
+    console.log(e.target.value);
+  };
+
   return (
     <>
-     <HashRouter>
-       <Navbar
-        collapseOnSelect
-        className="shadow-sm"
-        style={{ height: "13%", backgroundColor: "white" }}
-        expand="lg">
-          
-        <Nav className="me-auto flx">
-      
-          <Navbar.Brand href="/">
-              <img className="logo ml-4 mr-4" src={logo} alt="logo" style={{maxHeight:'100px', margin: '15px 0 0 40px'}}></img>
-          </Navbar.Brand> 
-          
-            <Nav.Link 
-            
-            href="/homepage"
-            className='nav-btn' 
-            >
-            Homepage</Nav.Link>
-            <Nav.Link className='nav-btn'href="#link">Archives</Nav.Link> 
-         
-        </Nav>
-       
-      </Navbar>
-      </HashRouter>
+    <div className="flx">
+      <img
+        className="ml-4 mr-4"
+        src={logo}
+        alt="logo"
+        style={{ maxHeight: "125px"}}
+        onClick={eventHandle}
+      ></img>
+
+      <button value={"Homepage"} onClick={eventHandle} className="nav-btn">
+        Homepage
+      </button>
+
+      <button value={"Archive"} onClick={eventHandle} className="nav-btn">
+        Archive
+      </button>
+      <img
+        className="logo ml-4 mr-4 floatRight"
+        src={logo}
+        alt="logo"
+        style={{
+          maxHeight: "125px",
+          transform: "scaleX(-1)",
+        }}
+        onClick={eventHandle}
+      ></img>
+    </div>
+      <Navigation pageView={pageView} />
     </>
   );
 };
