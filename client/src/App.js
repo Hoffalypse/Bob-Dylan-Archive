@@ -16,7 +16,7 @@ function App() {
    <Routes>
               <Route
                 exact
-                path="/"
+                path="/Bob-Dylan-Archive"
                 element={<Building/>}
               />
                <Route
