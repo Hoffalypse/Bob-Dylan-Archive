@@ -16,12 +16,12 @@ function App() {
    <Routes>
               <Route
                 exact
-                path="/Bob-Dylan-Archive"
+                path="/"
                 element={<Building/>}
               />
                <Route
-                exact
-                path="/Bob-Dylan-Archive/homepage"
+              
+                path="/homepage"
                 element={<Homepage/>}
               />
     </Routes>
