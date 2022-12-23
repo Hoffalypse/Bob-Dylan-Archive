@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Bob-Dylan-Archive/static/css/main.1febfed9.css",
-    "main.js": "/Bob-Dylan-Archive/static/js/main.a548f7e2.js",
+    "main.css": "/Bob-Dylan-Archive/static/css/main.395e615b.css",
+    "main.js": "/Bob-Dylan-Archive/static/js/main.e5cfeae6.js",
     "reactPlayerYouTube.js": "/Bob-Dylan-Archive/static/js/reactPlayerYouTube.3662c2ab.chunk.js",
     "reactPlayerSoundCloud.js": "/Bob-Dylan-Archive/static/js/reactPlayerSoundCloud.84990310.chunk.js",
     "reactPlayerVimeo.js": "/Bob-Dylan-Archive/static/js/reactPlayerVimeo.d870825b.chunk.js",
@@ -19,8 +19,8 @@
     "static/media/black-white.jpg": "/Bob-Dylan-Archive/static/media/black-white.db72f109a46cee965cb9.jpg",
     "static/media/construction.jpg": "/Bob-Dylan-Archive/static/media/construction.eee286fcae3d7cc64ad5.jpg",
     "index.html": "/Bob-Dylan-Archive/index.html",
-    "main.1febfed9.css.map": "/Bob-Dylan-Archive/static/css/main.1febfed9.css.map",
-    "main.a548f7e2.js.map": "/Bob-Dylan-Archive/static/js/main.a548f7e2.js.map",
+    "main.395e615b.css.map": "/Bob-Dylan-Archive/static/css/main.395e615b.css.map",
+    "main.e5cfeae6.js.map": "/Bob-Dylan-Archive/static/js/main.e5cfeae6.js.map",
     "reactPlayerYouTube.3662c2ab.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerYouTube.3662c2ab.chunk.js.map",
     "reactPlayerSoundCloud.84990310.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerSoundCloud.84990310.chunk.js.map",
     "reactPlayerVimeo.d870825b.chunk.js.map": "/Bob-Dylan-Archive/static/js/reactPlayerVimeo.d870825b.chunk.js.map",
@@ -37,7 +37,7 @@
     "787.3041762f.chunk.js.map": "/Bob-Dylan-Archive/static/js/787.3041762f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1febfed9.css",
-    "static/js/main.a548f7e2.js"
+    "static/css/main.395e615b.css",
+    "static/js/main.e5cfeae6.js"
   ]
 }
