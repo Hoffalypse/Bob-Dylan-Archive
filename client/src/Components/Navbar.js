@@ -27,12 +27,19 @@ const AppNavbar = () => {
         onClick={eventHandle}
       ></img>
 
-      <button value={"Homepage"} onClick={eventHandle} className="nav-btn">
+      <button 
+      value={"Homepage"} 
+      onClick={eventHandle} 
+      className="nav-btn"
+      id = {pageView === 'Homepage' ? 'highlight': ""}>
         Homepage
       </button>
 
-      <button value={"Archive"} onClick={eventHandle} className="nav-btn">
-        Archive
+      <button value={"Archive"} 
+      onClick={eventHandle} 
+      className="nav-btn"
+      id = {pageView === 'Archive' ? 'highlight': ""}>
+        Archives
       </button>
       <img
         className="logo ml-4 mr-4 floatRight"

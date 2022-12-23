@@ -10,12 +10,10 @@
   justify-content: end;
 }
 .nav-btn {
- 
   color: black;
   background-color: transparent;
-  font-size: 25px;
+  font-size: 40px;
   border: none;
- 
 }
 .floatRight{
     float:right;
