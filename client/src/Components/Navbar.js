@@ -1,8 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
-// import { NavStarsAsset } from "../components/NavStarsAsset";
-
-import { Navbar, Nav, Row, Col } from "react-bootstrap";
+import { Navbar, Nav, } from "react-bootstrap";
 import "../styles/navbar.css";
 import logo from "../assets/images/black-white.jpg"
 

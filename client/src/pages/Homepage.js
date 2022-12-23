@@ -1,4 +1,4 @@
-import { Navbar, Nav, Row, Col } from "react-bootstrap";
+
 import '../styles/homepage.css'
 import ReactPlayer from 'react-player/lazy'
 
