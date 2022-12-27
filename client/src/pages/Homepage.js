@@ -13,7 +13,7 @@ function Homepage () {
           <p>Some text here about why this site was created</p>
           </Col>
           <Col>
-            
+            {/* look for react player npm ro see preferences and available formats */}
             <ReactPlayer className='player' url='https://www.youtube.com/watch?v=Mt4XbGPsoSA'
             playing='true' />
             </Col>
