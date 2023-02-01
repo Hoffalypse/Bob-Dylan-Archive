@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 import Navigation from "./Navigation";
 
 const AppNavbar = () => {
+  const[songs, setSongs] = useState()
   let [pageView, setPageView] = useState();
   if (!pageView) {
     setPageView("Building");

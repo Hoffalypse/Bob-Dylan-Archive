@@ -19,14 +19,14 @@ function Archive() {
               <option value="2">Hurricane</option>
               <option value="3">Billy #1</option>
             </Form.Select>
-
+        {/* These values will be imported from DB once the song title is chosen */}
             <Form.Select aria-label="Default select example"style={{fontWeight:'bolder', marginBottom:'25px'}}>
               <option>Year Performed</option>
               <option value="1">2022</option>
               <option value="2">2021</option>
               <option value="3">1984</option>
             </Form.Select>
-
+{/* these will be populted from DB once first two options are selected */}
             <Form.Select aria-label="Default select example"style={{fontWeight:'bolder', marginBottom:'25px'}}>
               <option>Venue</option>
               <option value="1">Carnegie Hall</option>
